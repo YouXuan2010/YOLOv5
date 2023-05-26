@@ -1,0 +1,6 @@
+names:
+- '0'
+- '1'
+nc: 2
+train: Drowsiness-detection-2/train/images
+val: Drowsiness-detection-2/valid/images

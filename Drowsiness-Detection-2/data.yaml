@@ -1,0 +1,13 @@
+names:
+- awake
+- drowsy
+nc: 2
+roboflow:
+  license: Private
+  project: drowsiness-detection-gu95a
+  url: https://app.roboflow.com/keysight-e8tsm/drowsiness-detection-gu95a/2
+  version: 2
+  workspace: keysight-e8tsm
+test: ../test/images
+train: Drowsiness-Detection-2/train/images
+val: Drowsiness-Detection-2/valid/images
